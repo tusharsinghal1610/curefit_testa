@@ -1,0 +1,19 @@
+{
+  "name": "@curefit/testa",
+  "version": "1.0.0",
+  "description": "just for testing a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tusharsinghal1610/curefit_testa.git"
+  },
+  "author": "Tushar Singhal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tusharsinghal1610/curefit_testa/issues"
+  },
+  "homepage": "https://github.com/tusharsinghal1610/curefit_testa#readme"
+}
