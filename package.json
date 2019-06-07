@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tusharsinghal1610/curefit_testa.git"
+    "url": "git+https://github.com/tusharsinghal1610/testa.git"
   },
   "author": "Tushar Singhal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tusharsinghal1610/curefit_testa/issues"
+    "url": "https://github.com/tusharsinghal1610/testa/issues"
   },
-  "homepage": "https://github.com/tusharsinghal1610/curefit_testa#readme"
+  "homepage": "https://github.com/tusharsinghal1610/testa#readme"
 }
