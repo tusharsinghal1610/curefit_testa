@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tusharsinghal1610/testa/issues"
   },
-  "homepage": "https://github.com/tusharsinghal1610/testa#readme"
+  "homepage": "https://github.com/tusharsinghal1610/testa#readme",
+  "dependencies": {
+    "visualization_tool": "^2.0.35"
+  }
 }
