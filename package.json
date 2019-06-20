@@ -18,7 +18,7 @@
   "homepage": "https://github.com/tusharsinghal1610/testa#readme",
   "dependencies": {
     "@curefit/dependents_updater_cl": "^1.0.0",
-    "@curefit/testb": "^1.0.25",
+    "@curefit/testb": "^1.0.26",
     "@curefit/testc": "^1.0.6"
   }
 }
