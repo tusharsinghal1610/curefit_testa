@@ -19,6 +19,6 @@
   "dependencies": {
     "@curefit/dependents_updater_cl": "^1.0.0",
     "@curefit/testb": "^1.0.24",
-    "@curefit/testc": "^1.0.2"
+    "@curefit/testc": "^1.0.6"
   }
 }
