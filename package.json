@@ -21,5 +21,9 @@
   "homepage": "https://github.com/tusharsinghal1610/testa#readme",
   "gitHead": "f05f30fe1049a5d6f1202b36f44fa2c32aa86681",
   "readme": "ERROR: No README data found!",
-  "_id": "@curefit/testa@2.0.137"
+  "_id": "@curefit/testa@2.0.138",
+  "dependencies": {
+    "@curefit/testb": "^1.0.155",
+    "@curefit/testc": "^1.0.129"
+  }
 }
