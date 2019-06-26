@@ -4,7 +4,8 @@
   "description": "just for testing a",
   "main": "index.js",
   "scripts": {
-    "postversion": "git push && git push --tags && npm publish"
+    "postversion": "git push && git push --tags && npm publish",
+    "build": "node -v"
   },
   "repository": {
     "type": "git",
@@ -20,8 +21,9 @@
   "homepage": "https://github.com/tusharsinghal1610/testa#readme",
   "gitHead": "f05f30fe1049a5d6f1202b36f44fa2c32aa86681",
   "readme": "ERROR: No README data found!",
-  "_id": "@curefit/testa@2.0.120",
+  "_id": "@curefit/testa@2.0.122",
   "dependencies": {
-    "@curefit/testb": "^1.0.139"
+    "@curefit/testb": "^1.0.140",
+    "@curefit/testc": "^1.0.114"
   }
 }
