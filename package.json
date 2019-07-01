@@ -23,7 +23,7 @@
   "readme": "ERROR: No README data found!",
   "_id": "@curefit/testa@2.0.318",
   "dependencies": {
-    "@curefit/testb": "^1.0.322",
-    "@curefit/testc": "^1.0.281"
+    "@curefit/testb": "^1.0.323",
+    "@curefit/testc": "^1.0.282"
   }
 }
